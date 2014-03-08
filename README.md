@@ -1,6 +1,6 @@
 DIS3
 ===
-Z80 Self Disassembler for MSX-DOS
+Z80 2-pass Self Disassembler for MSX-DOS
 
 usage:
 ````
